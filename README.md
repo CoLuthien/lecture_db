@@ -1,2 +1,2 @@
-# lecture_db
+# GNU, Database 
 database class materials
